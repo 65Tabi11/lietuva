@@ -1,0 +1,70 @@
+<HTML>
+ <head>
+	<TITLE>naujas darbas</TITLE>
+  </head>
+  <BODY>
+<center><h1>frames</h1></center>
+
+
+frameset rows="16pro;84pro">
+frame src="top.htm" name="top">
+frame src="bottom.htm" name="bottom">
+</frameset>
+
+
+
+
+
+frameset rows="16pro;84pro">
+frameset cols="16pro;84pro">
+frame src="tl.htm" name="tl">
+frame src="tr.htm" name="tr">
+</frameset>
+frame src="top.htm" name="top">
+frame src="tl.htm" name="tl">
+frame src="tr.htm" name="tr">
+
+frameset rows="16pro;84pro">
+frame src="top.htm" name="top">
+frameset cols="16pro;84pro">
+frame src="tl.htm" name="tl">
+frame src="tr.htm" name="tr">
+</frameset>
+</frameset>
+
+
+
+
+titul pusl
+<HTML>
+ <head>
+<TITLE>naujas darbas</TITLE>
+  
+frameset rows="16pro;84pro">
+frame src="top.htm" name="top">
+frame src="bottom.htm" name="bottom">
+</frameset>
+</frameset>
+ </head>
+
+bofy bg color
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
